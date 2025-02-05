@@ -53,7 +53,7 @@ The methodology consisted of the following stages:
 
 
 ## 🛠 **Tool's Interface**
-![MiRel's Interface]("C://Users//30698//Documents//GitHub//MiRel//assets//MiRel.png")
+![MiRel's Interface](assets/MiRel.png)
 
 
 ## 🔮 **Future Work**
