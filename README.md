@@ -53,7 +53,7 @@ The methodology consisted of the following stages:
 
 
 ## 🛠 **Tool's Interface**
-![MiRel's Interface](assets/MiRel.png.png)
+![MiRel's Interface](assets/MiRel.png)
 
 
 ## 🔮 **Future Work**
